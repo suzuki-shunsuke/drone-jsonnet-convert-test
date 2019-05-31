@@ -1,5 +1,9 @@
 # drone-jsonnet-convert-test
 
+[![Build Status](https://cloud.drone.io/api/badges/suzuki-shunsuke/drone-jsonnet-convert-test/status.svg)](https://cloud.drone.io/suzuki-shunsuke/drone-jsonnet-convert-test)
+[![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/drone-jsonnet-convert-test.svg)](https://github.com/suzuki-shunsuke/drone-jsonnet-convert-test)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/suzuki-shunsuke/drone-jsonnet-convert-test/master/LICENSE)
+
 The example [Drone](https://drone.io) pipeline which tests whether .drone.yml is generated from .drone.jsonnet properly.
 
 At Drone v1, [jsonnet](https://jsonnet.org) is recommended officially.
