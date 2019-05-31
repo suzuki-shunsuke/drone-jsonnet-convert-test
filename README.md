@@ -48,8 +48,8 @@ $ drone exec
 
 For detail, please see source codes.
 
-* .drone.jsonnet
-* test_drone_jsonnet_convert.sh
+* [.drone.jsonnet](.drone.jsonnet)
+* [test_drone_jsonnet_convert.sh](test_drone_jsonnet_convert.sh)
 
 ## License
 
